@@ -14,18 +14,26 @@ Push files to master:
 
 * tiy-assignments git master 
 
+```
 	git add .
 	git status
 	git commit -m “”
 	git push origin master
 	git status
+```
 
 Then:
+
+```
 	git checkout -b gh-pages
+```	
 	(to create a new branch)
 
+
 or:
-	git checkout gh-pages
+
+```	git checkout gh-pages
+```
 	(switches to already created branch)
 
 * tiy-assignments git gh-pages
