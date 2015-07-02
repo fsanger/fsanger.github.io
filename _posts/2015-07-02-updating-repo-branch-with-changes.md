@@ -30,16 +30,10 @@ then:
 
 * tiy-assignments git gh-pages
 
-	git push origin gh-pages
-	git add .
-	git status
-	git commit -m “”
+	git merge master
+
+	(resolve any merge conflicts if they exist)
 	git push origin gh-pages
 
 	git checkout master (switches to master)
 
-* tiy-assignments git master  
-
-	git merge gh-pages
-	git push origin master
-	git status (to verify)
