@@ -20,12 +20,12 @@ Push files to master:
 	git push origin master
 	git status
 
-then:
+Then:
 	git checkout -b gh-pages
 	(to create a new branch)
 
-	or:
-	git checkout gh-pages  
+or:
+	git checkout gh-pages
 	(switches to already created branch)
 
 * tiy-assignments git gh-pages
@@ -37,4 +37,4 @@ then:
 
 	git checkout master (switches to master)
 
- for github.io, updating master automatically updates live site without needing to update gh-pages
+ For github.io, updating master automatically updates live site without needing to update gh-pages
