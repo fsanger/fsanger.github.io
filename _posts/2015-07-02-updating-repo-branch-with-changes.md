@@ -37,3 +37,4 @@ then:
 
 	git checkout master (switches to master)
 
+ for github.io, updating master automatically updates live site without needing to update gh-pages
