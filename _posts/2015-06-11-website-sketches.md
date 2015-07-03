@@ -8,7 +8,7 @@ These are assigned sketches of 10 websites…
 an exercise in assessing a website‘s grid column structure.
 
 
-![Amazon.com, Roomba](/images/fsanger.github.io/images/sketch_Amazon_Roomba.jpg)
+![Amazon.com, Roomba](/images/sketch_Amazon_Roomba.jpg)
 
 
 
@@ -20,7 +20,7 @@ ArtoftheMenu.com
 
 Fuzzco.com
 
-![Fuzzco.com)](images/sketch_Fuzzco.jpg)
+![Fuzzco.com)](/images/sketch_Fuzzco.jpg)
 
 
 Github.com (personal page)
