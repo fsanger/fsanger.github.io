@@ -13,7 +13,7 @@ But it’s much more than that. Its definition is by its very nature vague. It�
 
 For example from the Stanford Encyclopedia of Philosophy:
 
-	That postmodernism is indefinable is a truism. However, it can be described as a set of critical, strategic and rhetorical practices employing concepts such as difference, repetition, the trace, the simulacrum, and hyperreality to destabilize other concepts such as presence, identity, historical progress, epistemic certainty, and the univocity of meaning. 
+“That postmodernism is indefinable is a truism. However, it can be described as a set of critical, strategic and rhetorical practices employing concepts such as difference, repetition, the trace, the simulacrum, and hyperreality to destabilize other concepts such as presence, identity, historical progress, epistemic certainty, and the univocity of meaning.” 
 
 Woah. What to make of that? Not sure.
 
