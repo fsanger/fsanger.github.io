@@ -5,7 +5,8 @@ date:   2015-07-22
 ---
 
 ### Contents
-&nbsp!
+
+&nbsp;
 
 #### Background and Design Goals
 
@@ -33,6 +34,7 @@ date:   2015-07-22
 
 #### Sample layout
 
+&nbsp;
 
 ..........
 
@@ -41,7 +43,7 @@ date:   2015-07-22
 
 The Good Reads site has been in existance since 2007. Using the site’s lists and social networking features, book lovers can find new selections, recommend their favorites to others, and rate, catalogue and make lists of their own favorite books to share with others.
 
-The site in its current state includes an extensive number of features, many of which are hard to find and unwieldy. The existing design also lacks hierarchy in color, typography and graphics. The repetitive nature of listing books and their lengthy metadata offers a bland, flat experience for the user.
+The site in its current state includes an extensive number of features which are unwieldly and often hard to find. The existing design also lacks hierarchy in color, typography and graphics. The repetitive nature of listing books and their lengthy metadata offers a bland, flat experience for the user.
 
 The goal of this website redesign was to create a more appealing user experience that would integrate two major user goals––finding new books and sharing favorites with others—-via a bridging activity: the cataloguing and sorting of books into groups or "shelves." 
 
