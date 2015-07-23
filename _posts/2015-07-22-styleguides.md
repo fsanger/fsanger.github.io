@@ -15,32 +15,26 @@ date:   2015-07-22
 
 #### Typography
 
-#### Icons
+#### Logo
+
+#### Icons / graphic elements
+
+* Icons
+* Labels
+* Buttons and links
+	* hover state
+	* normal state	
+* Ratings
+* Search bars
+
+#### Imagery
+* User and author photos
+* Book covers
+
+#### Sample layout
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+..........
 
 
 ### Background and Design Goals
